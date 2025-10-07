@@ -1,10 +1,14 @@
-<img width="911" height="1874" alt="Screenshot 2025-10-07 184056" src="https://github.com/user-attachments/assets/dafec8f7-135d-4a0e-aa25-5d466b00c22a" /># Ware - eCommerce Website 🛒
+
 
 A modern, responsive eCommerce website built with HTML, CSS, and JavaScript. This project features a clean and user-friendly interface for online shopping with multiple product categories including fashion, electronics, jewelry, and more.
 
 ## 📸 Screenshots
 
-<img width="911" height="1874" alt="Screenshot 2025-10-07 184056" src="https://github.com/user-attachments/assets/91931d96-5dff-4cbc-bbad-64e16255ffa1" />
+<img width="1874" height="911" alt="Screenshot 2025-10-07 184056" src="https://github.com/user-attachments/assets/c4e21d58-6642-4111-a586-fc37dbd6a786" />
+<img width="1871" height="900" alt="Screenshot 2025-10-07 182853" src="https://github.com/user-attachments/assets/d743c81c-dc82-4621-bff9-cb1864846f5f" />
+<img width="1876" height="904" alt="Screenshot 2025-10-07 182919" src="https://github.com/user-attachments/assets/bc0e267e-a650-4ce7-bf87-9bb34fc07367" />
+
+<img width="1875" height="900" alt="Screenshot 2025-10-07 182956" src="https://github.com/user-attachments/assets/98295961-f1e3-41c9-8a33-647619345065" />
 
 
 
